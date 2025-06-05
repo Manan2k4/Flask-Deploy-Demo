@@ -64,7 +64,6 @@ Flask-Security==5.6.2
 Flask-Session==0.8.0
 Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.2
-flaskr @ file:///C:/Users/ghoni/OneDrive/Desktop/Practicals/Python/Flask-learnings/flask-tutorial/dist/flaskr-1.0.0-py2.py3-none-any.whl#sha256=11d1556fb8f4b9ab588ee01cae94538d4768a902d074704f38945fd05ca23047
 fonttools==4.58.0
 FormEncode==2.1.1
 fpdf==1.7.2
