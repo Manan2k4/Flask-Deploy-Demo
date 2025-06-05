@@ -3,5 +3,8 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/')
-def home_view():
-    return "<h1>Welcome to GFG's</h1>"
+def home():
+    return "<h3>Hello, Render! Flask deployment successful 🚀</h3>"
+
+if __name__ == '__main__':
+    app.run(debug=True)
